@@ -1,0 +1,5 @@
+Pillow
+pycryptodome
+stepic
+cryptography
+pytest
