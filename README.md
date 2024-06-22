@@ -53,4 +53,4 @@ The tool utilizes established cryptographic libraries such as PyCryptodome and s
 - Salah Al Shayah
 - Lebanon
 
-Feel free to reach out if you have any questions or suggestions for improvement at contact@salahalshayah.me!
+Feel free to reach out if you have any questions or suggestions for improvement at salah.alshayah@lau.edu!
